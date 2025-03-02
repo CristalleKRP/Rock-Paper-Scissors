@@ -8,3 +8,9 @@ A simple **Rock-Paper-Scissors** game built using HTML, CSS, and JavaScript. Thi
 - The game displays the result (Win, Lose, or Draw).
 - Clean and simple user interface.
 - Console-based gameplay
+
+## Built With
+- **HTML** for the structure.
+- **CSS** for styling.
+- **JavaScript** for game logic.
+- **Prettier** for code formatting.
